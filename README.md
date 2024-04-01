@@ -8,8 +8,8 @@
 
 ###
 
-<h1 align="center">Welcome 👋</h1>
-<h3 align="left">👩‍💻  About Me</h3>
+<h1 align="center">Wassup </h1>
+<h3 align="left">All About Me</h3>
 <p align="left">I'm Nikho Remulla from Makati<br><br>- 🔭 I’m working as a freelancer and lecturer<br>- 📚 I'm currently re-learning Selenium<br>- ⚡ In my free time I read books</p>
 
 
